@@ -1,0 +1,2 @@
+# nonebot_plugin_zaoba
+基于Nonebot2的早八插件，在早上和晚上会发送早八问候
